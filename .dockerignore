@@ -1,0 +1,4 @@
+# To prevent a build failure should the permissions on an output
+# directory not be properly set
+
+certs-out-*
